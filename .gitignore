@@ -1,0 +1,6 @@
+fluidd.cfg
+printer-20*.cfg
+K-ShakeTune_results/
+*.swp
+*.bkp
+*.*~
